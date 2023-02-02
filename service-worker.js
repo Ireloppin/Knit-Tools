@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Knit-Tools/precache-manifest.971a0cb46dbb9d5fc13c0c9d0280cf64.js"
+  "/Knit-Tools/precache-manifest.4e3c57d5c18e8809d9905682f1963e12.js"
 );
 
 workbox.clientsClaim();
