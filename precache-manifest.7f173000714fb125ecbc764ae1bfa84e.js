@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "bcf58ea625847948152f",
-    "url": "/Knit-Tools/static/css/main.e02bf223.chunk.css"
+    "revision": "cbf48ab19c7846a86ad6",
+    "url": "/Knit-Tools/static/css/main.264ff6ba.chunk.css"
   },
   {
-    "revision": "bcf58ea625847948152f",
-    "url": "/Knit-Tools/static/js/main.bcf58ea6.chunk.js"
+    "revision": "cbf48ab19c7846a86ad6",
+    "url": "/Knit-Tools/static/js/main.cbf48ab1.chunk.js"
   },
   {
     "revision": "6e3a08cf5074c4a85941",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/Knit-Tools/static/js/runtime~main.fddb1e81.js"
   },
   {
-    "revision": "29bf69f168504ffde67920c8efe63ea9",
+    "revision": "c658d78664ea6461c042325a348768cd",
     "url": "/Knit-Tools/index.html"
   }
 ];
